@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Halsey",
+    "last_name": "Baccup",
+    "email": "hbaccup0@i2i.jp",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Jannelle",
+    "last_name": "Ridout",
+    "email": "jridout1@japanpost.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Faydra",
+    "last_name": "Augustin",
+    "email": "faugustin2@arstechnica.com",
+    "gender": "Polygender"
+  },
+  {
+    "id": 4,
+    "first_name": "Rossy",
+    "last_name": "Carvil",
+    "email": "rcarvil3@cisco.com",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Glori",
+    "last_name": "Bytheway",
+    "email": "gbytheway4@cnn.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Teodorico",
+    "last_name": "Upex",
+    "email": "tupex5@diigo.com",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Alric",
+    "last_name": "Seak",
+    "email": "aseak6@blogtalkradio.com",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Georgine",
+    "last_name": "Leban",
+    "email": "gleban7@hugedomains.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Callida",
+    "last_name": "Jarvie",
+    "email": "cjarvie8@mozilla.org",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Melva",
+    "last_name": "Bearcock",
+    "email": "mbearcock9@smh.com.au",
+    "gender": "Female"
+  }
+]
